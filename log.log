@@ -1,0 +1,87 @@
+Sun, 17 Dec 2017 21:30:08  QQBot.py[line:262] CRITICAL 正在获取登陆页面
+Sun, 17 Dec 2017 21:30:08  QQBot.py[line:265] CRITICAL 正在获取appid
+Sun, 17 Dec 2017 21:30:08  QQBot.py[line:267] CRITICAL 正在获取login_sig
+Sun, 17 Dec 2017 21:30:08  QQBot.py[line:269] INFO get sign : 
+Sun, 17 Dec 2017 21:30:08  QQBot.py[line:270] CRITICAL 正在获取pt_version
+Sun, 17 Dec 2017 21:30:08  QQBot.py[line:272] INFO get g_pt_version : 10232
+Sun, 17 Dec 2017 21:30:08  QQBot.py[line:273] CRITICAL 正在获取mibao_css
+Sun, 17 Dec 2017 21:30:08  QQBot.py[line:275] INFO get g_mibao_css : 
+Sun, 17 Dec 2017 21:30:08  QQBot.py[line:282] INFO [1] Get QRCode Picture Success.
+Sun, 17 Dec 2017 21:30:24  QQBot.py[line:296] INFO ['ptuiCB(', '0', ',', '0', ',', 'http://ptlogin2.web2.qq.com/check_sig?pttype=1&uin=2178778364&service=ptqrlogin&nodirect=0&ptsigx=943a8045437e25e38ba5cbbbacb04bd405e408d44ad45d554928e8d2acac58241933d84deafaf2f818687cab065169155fc9f549eb510d8119f52d42ac3f7dc3&s_url=http%3A%2F%2Fw.qq.com%2Fproxy.html%3Flogin2qq%3D1%26webqq_type%3D10&f_url=&ptlang=2052&ptredirect=100&aid=501004106&daid=164&j_later=0&low_login_hour=0&regmaster=0&pt_login_type=3&pt_aid=0&pt_aaid=16&pt_light=0&pt_3rd_aid=0', ',', '0', ',', '\xe7\x99\xbb\xe5\xbd\x95\xe6\x88\x90\xe5\x8a\x9f\xef\xbc\x81', ', ', '\xe4\xb8\x8d\xe7\xbe\x81\xe7\x9a\x84\xe9\xa3\x8e', ')']
+Sun, 17 Dec 2017 21:30:24  QQBot.py[line:300] CRITICAL 二维码已扫描，正在登陆
+Sun, 17 Dec 2017 21:30:25  QQBot.py[line:103] ERROR Get mibao_res Url Error.
+Sun, 17 Dec 2017 21:30:25  QQBot.py[line:318] INFO PTWebQQ: a42c36ba1001fe4887e12349e6d0d3264cd3ac5e8c60526798b357e348f14451
+Sun, 17 Dec 2017 21:30:25  QQBot.py[line:328] INFO getvfwebqq html:  {"retcode":0,"result":{"vfwebqq":"455859f23ee6817325b9e049152c0cbfa457e15517913e3e723337e673d2a46a64152957814daf5a"}}
+Sun, 17 Dec 2017 21:30:25  QQBot.py[line:342] CRITICAL QQ号：2178778364 登陆成功, 用户名：不羁的风
+Sun, 17 Dec 2017 21:30:25  QQBot.py[line:343] INFO Login success
+Sun, 17 Dec 2017 21:30:25  QQBot.py[line:344] CRITICAL 登陆二维码用时0.355秒
+Sun, 17 Dec 2017 21:30:28  QQBot.py[line:752] ERROR 无法找到群：
+Sun, 17 Dec 2017 21:30:28  QQBot.py[line:752] ERROR 无法找到群：2016互联网+复合班
+Sun, 17 Dec 2017 21:30:28  QQBot.py[line:750] INFO 关注:哈哈
+Sun, 17 Dec 2017 21:30:28  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"你好"],"from_uin":1355705745,"msg_id":23843,"msg_type":1,"time":1513516785,"to_uin":2178778364}}],"retcode":0}
+Sun, 17 Dec 2017 21:30:28  QQBot.py[line:459] INFO 私聊线程生成，私聊对象UIN：1355705745
+Sun, 17 Dec 2017 21:30:28  QQBot.py[line:483] INFO PM get info from AI: 你好
+Sun, 17 Dec 2017 21:30:29  QQBot.py[line:486] INFO AI REPLY:{"code":100000,"text":"好好好，别来无恙？"}
+Sun, 17 Dec 2017 21:30:29  QQBot.py[line:499] ERROR ERROR:'errCode'
+Sun, 17 Dec 2017 21:30:29  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"你好"],"from_uin":1355705745,"msg_id":23845,"msg_type":1,"time":1513517323,"to_uin":2178778364}}],"retcode":0}
+Sun, 17 Dec 2017 21:30:29  QQBot.py[line:483] INFO PM get info from AI: 你好
+Sun, 17 Dec 2017 21:30:29  QQBot.py[line:486] INFO AI REPLY:{"code":100000,"text":"仅仅是一个打招呼，我能开心好久好久"}
+Sun, 17 Dec 2017 21:30:30  QQBot.py[line:499] ERROR ERROR:'errCode'
+Sun, 17 Dec 2017 21:30:30  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"asdf"],"from_uin":1355705745,"msg_id":23846,"msg_type":1,"time":1513517401,"to_uin":2178778364}}],"retcode":0}
+Sun, 17 Dec 2017 21:30:30  QQBot.py[line:483] INFO PM get info from AI: asdf
+Sun, 17 Dec 2017 21:30:30  QQBot.py[line:486] INFO AI REPLY:{"code":100000,"text":"asdf"}
+Sun, 17 Dec 2017 21:30:30  QQBot.py[line:499] ERROR ERROR:'errCode'
+Sun, 17 Dec 2017 21:30:31  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"好好好，别来无恙？"],"from_uin":2178778364,"msg_id":55720,"msg_type":1,"time":1513517429,"to_uin":1355705745}}],"retcode":0}
+Sun, 17 Dec 2017 21:30:31  QQBot.py[line:459] INFO 私聊线程生成，私聊对象UIN：2178778364
+Sun, 17 Dec 2017 21:30:31  QQBot.py[line:483] INFO PM get info from AI: 好好好，别来无恙？
+Sun, 17 Dec 2017 21:30:31  QQBot.py[line:486] INFO AI REPLY:{"code":100000,"text":"还行。挺好啊？"}
+Sun, 17 Dec 2017 21:30:31  QQBot.py[line:499] ERROR ERROR:'errCode'
+Sun, 17 Dec 2017 21:30:31  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"仅仅是一个打招呼，我能开心好久好久"],"from_uin":2178778364,"msg_id":36730,"msg_type":1,"time":1513517430,"to_uin":1355705745}}],"retcode":0}
+Sun, 17 Dec 2017 21:30:31  QQBot.py[line:483] INFO PM get info from AI: 仅仅是一个打招呼，我能开心好久好久
+Sun, 17 Dec 2017 21:30:32  QQBot.py[line:486] INFO AI REPLY:{"code":100000,"text":"你瞅你那没出息的样儿！"}
+Sun, 17 Dec 2017 21:30:32  QQBot.py[line:499] ERROR ERROR:'errCode'
+Sun, 17 Dec 2017 21:30:32  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"asdf"],"from_uin":2178778364,"msg_id":54037,"msg_type":1,"time":1513517430,"to_uin":1355705745}}],"retcode":0}
+Sun, 17 Dec 2017 21:30:32  QQBot.py[line:483] INFO PM get info from AI: asdf
+Sun, 17 Dec 2017 21:30:32  QQBot.py[line:486] INFO AI REPLY:{"code":100000,"text":"asdf"}
+Sun, 17 Dec 2017 21:30:33  QQBot.py[line:499] ERROR ERROR:'errCode'
+Sun, 17 Dec 2017 21:30:45  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"你能不能在群利用"],"from_uin":1355705745,"msg_id":23847,"msg_type":1,"time":1513517445,"to_uin":2178778364}}],"retcode":0}
+Sun, 17 Dec 2017 21:30:45  QQBot.py[line:483] INFO PM get info from AI: 你能不能在群利用
+Sun, 17 Dec 2017 21:30:45  QQBot.py[line:486] INFO AI REPLY:{"code":100000,"text":"感受到了你赤裸裸的嫌弃，不过我还是有很多闪光点的嘛～"}
+Sun, 17 Dec 2017 21:30:46  QQBot.py[line:499] ERROR ERROR:'errCode'
+Sun, 17 Dec 2017 21:30:46  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"感受到了你赤裸裸的嫌弃，不过我还是有很多闪光点的嘛～"],"from_uin":2178778364,"msg_id":1070,"msg_type":1,"time":1513517446,"to_uin":1355705745}}],"retcode":0}
+Sun, 17 Dec 2017 21:30:46  QQBot.py[line:483] INFO PM get info from AI: 感受到了你赤裸裸的嫌弃，不过我还是有很多闪光点的嘛～
+Sun, 17 Dec 2017 21:30:46  QQBot.py[line:486] INFO AI REPLY:{"code":100000,"text":"你先告诉我,你想知道的更多什么~"}
+Sun, 17 Dec 2017 21:30:46  QQBot.py[line:499] ERROR ERROR:'errCode'
+Sun, 17 Dec 2017 21:30:53  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"去死"],"from_uin":1355705745,"msg_id":23848,"msg_type":1,"time":1513517453,"to_uin":2178778364}}],"retcode":0}
+Sun, 17 Dec 2017 21:30:53  QQBot.py[line:483] INFO PM get info from AI: 去死
+Sun, 17 Dec 2017 21:30:53  QQBot.py[line:486] INFO AI REPLY:{"code":100000,"text":"这样说话是不是不文明呢"}
+Sun, 17 Dec 2017 21:30:53  QQBot.py[line:499] ERROR ERROR:'errCode'
+Sun, 17 Dec 2017 21:30:54  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"这样说话是不是不文明呢"],"from_uin":2178778364,"msg_id":9760,"msg_type":1,"time":1513517453,"to_uin":1355705745}}],"retcode":0}
+Sun, 17 Dec 2017 21:30:54  QQBot.py[line:483] INFO PM get info from AI: 这样说话是不是不文明呢
+Sun, 17 Dec 2017 21:30:54  QQBot.py[line:486] INFO AI REPLY:{"code":100000,"text":"你说呀"}
+Sun, 17 Dec 2017 21:30:54  QQBot.py[line:499] ERROR ERROR:'errCode'
+Sun, 17 Dec 2017 21:31:54  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0}
+Sun, 17 Dec 2017 21:32:33  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"讲个笑话"],"from_uin":1355705745,"msg_id":23849,"msg_type":1,"time":1513517553,"to_uin":2178778364}}],"retcode":0}
+Sun, 17 Dec 2017 21:32:33  QQBot.py[line:483] INFO PM get info from AI: 讲个笑话
+Sun, 17 Dec 2017 21:32:33  QQBot.py[line:486] INFO AI REPLY:{"code":100000,"text":"约翰看到某游泳池招聘救生员的广告后，前去报名。游泳池的老板问约翰：“你有救生经验吗？”约翰摇摇头。老板追着问：“那你有什么特长？”约翰回答说：“我人特别长，游泳池水深2.1米，我身高2.17米。”"}
+Sun, 17 Dec 2017 21:32:34  QQBot.py[line:499] ERROR ERROR:'errCode'
+Sun, 17 Dec 2017 21:32:34  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"约翰看到某游泳池招聘救生员的广告后，前去报名。游泳池的老板问约翰：“你有救生经验吗？”约翰摇摇头。老板追着问：“那你有什么特长？”约翰回答说：“我人特别长，游泳池水深2.1米，我身高2.17米。”"],"from_uin":2178778364,"msg_id":54096,"msg_type":1,"time":1513517554,"to_uin":1355705745}}],"retcode":0}
+Sun, 17 Dec 2017 21:32:34  QQBot.py[line:483] INFO PM get info from AI: 约翰看到某游泳池招聘救生员的广告后，前去报名。游泳池的老板问约翰：“你有救生经验吗？”约翰摇摇头。老板追着问：“那你有什么特长？”约翰回答说：“我人特别长，游泳池水深2.1米，我身高2.17米。”
+Sun, 17 Dec 2017 21:32:34  QQBot.py[line:486] INFO AI REPLY:{"code":100000,"text":"信息量太多，我没明白你说的意思。"}
+Sun, 17 Dec 2017 21:32:34  QQBot.py[line:499] ERROR ERROR:'errCode'
+Sun, 17 Dec 2017 21:33:35  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0}
+Sun, 17 Dec 2017 21:34:35  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0}
+Sun, 17 Dec 2017 21:34:52  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"哈哈"],"from_uin":1355705745,"msg_id":23850,"msg_type":1,"time":1513517692,"to_uin":2178778364}}],"retcode":0}
+Sun, 17 Dec 2017 21:34:52  QQBot.py[line:483] INFO PM get info from AI: 哈哈
+Sun, 17 Dec 2017 21:34:52  QQBot.py[line:486] INFO AI REPLY:{"code":100000,"text":"你抱着别人笑，我抱着自己苦。"}
+Sun, 17 Dec 2017 21:34:52  QQBot.py[line:499] ERROR ERROR:'errCode'
+Sun, 17 Dec 2017 21:34:53  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"你抱着别人笑，我抱着自己苦。"],"from_uin":2178778364,"msg_id":15543,"msg_type":1,"time":1513517692,"to_uin":1355705745}}],"retcode":0}
+Sun, 17 Dec 2017 21:34:53  QQBot.py[line:483] INFO PM get info from AI: 你抱着别人笑，我抱着自己苦。
+Sun, 17 Dec 2017 21:34:53  QQBot.py[line:486] INFO AI REPLY:{"code":100000,"text":"哎　无聊啊"}
+Sun, 17 Dec 2017 21:34:53  QQBot.py[line:499] ERROR ERROR:'errCode'
+Sun, 17 Dec 2017 21:35:53  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0}
+Sun, 17 Dec 2017 21:36:53  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0}
+Sun, 17 Dec 2017 21:37:54  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0}
+Sun, 17 Dec 2017 21:38:54  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0}
+Sun, 17 Dec 2017 21:39:54  QQBot.py[line:433] INFO Check html: {"errmsg":"error","retcode":0}
+Sun, 17 Dec 2017 21:40:08  QQBot.py[line:433] INFO Check html: {"result":[{"poll_type":"group_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"@不羁的风",""," hah "],"from_uin":1911665913,"group_code":1911665913,"msg_id":10439,"msg_type":4,"send_uin":1355705745,"time":1513518008,"to_uin":2178778364}}],"retcode":0}

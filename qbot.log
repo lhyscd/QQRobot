@@ -1,0 +1,10 @@
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 810, in __bootstrap_inner
+    self.run()
+  File "QQBot.py", line 417, in run
+    msg_handler(ret['result'])
+  File "QQBot.py", line 168, in msg_handler
+    gid = GroupCodeList[int(guin)]
+KeyError: 1911665913
+
